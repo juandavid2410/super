@@ -1,0 +1,6 @@
+C:\Users\JOSE DAVID\source\repos\Supermarket-mvp\obj\Debug\net6.0-windows\Supermarket_mvp.Form1.resources
+C:\Users\JOSE DAVID\source\repos\Supermarket-mvp\obj\Debug\net6.0-windows\Supermarker-mvp.csproj.GenerateResource.cache
+C:\Users\JOSE DAVID\source\repos\Supermarket-mvp\obj\Debug\net6.0-windows\Supermarker-mvp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOSE DAVID\source\repos\Supermarket-mvp\obj\Debug\net6.0-windows\Supermarker-mvp.AssemblyInfoInputs.cache
+C:\Users\JOSE DAVID\source\repos\Supermarket-mvp\obj\Debug\net6.0-windows\Supermarker-mvp.AssemblyInfo.cs
+C:\Users\JOSE DAVID\source\repos\Supermarket-mvp\obj\Debug\net6.0-windows\Supermarker-mvp.csproj.CoreCompileInputs.cache
